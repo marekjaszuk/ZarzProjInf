@@ -1,0 +1,5 @@
+wsiz.webex.com/meet/mjaszuk
+git commit -m "CU-38fz9hh - 📝 As a site visitor, I want to see new content when I come to the site, so I come back more often"
+
+https://github.com/marekjaszuk/ZarzProjInf.git
+git checkout -b "CU-38fz9mf_-As-a-trainer-I-can-create-a-new-course-or-event-so-site-visitors-can-see-it_Marek-Jaszuk"
